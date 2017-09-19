@@ -7,7 +7,7 @@ Contributions to Port Neiio's Themes to Linux are Welcome as Pull Requests (Fork
 List Coming Soon (Niivu, could you edit this part to add a list of all Neiio's themes please?)
 
 <h2>Who is Neiio?</h2>
-Neiio (Jamie Green) was a Windows Theme Designer that made beautiful themes for Windows, which sadly, soon after his famous port of Arc GTK to Windows, died last year. Niivu has been given the duty to keep the themes alive for Windows, and I thought it'd be awesome to bring Neiio's memory to a world that cares more about customisation, than Windows does (at the time of writing this).
+Neiio (Jamie Green) was a Windows Theme Designer that made beautiful themes for Windows, who sadly, soon after his famous port of Arc GTK to Windows, died last year. Niivu has been given the duty to keep the themes alive for Windows, and I thought it'd be awesome to bring Neiio's memory to a world that cares more about customisation, than Windows does (at the time of writing this).
 
 <h2>Themes that won't get ported</h2>
 The Themes that won't get ported will mainly be themes that were just ports of Linux Themes in the first place, including:
